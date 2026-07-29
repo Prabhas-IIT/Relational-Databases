@@ -270,18 +270,6 @@ Through this project, I learned how to:
 
 ---
 
-# Future Improvements
-
-Some potential improvements for this project include:
-
-* Using PostgreSQL transactions for safer imports
-* Using `INSERT ... RETURNING` to reduce extra queries
-* Implementing `ON CONFLICT` for duplicate handling
-* Bulk importing data using PostgreSQL's `COPY` command
-* Adding indexes for faster query performance
-* Building a simple CLI menu for interactive querying
-
----
 
 # Author
 
